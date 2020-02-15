@@ -12,6 +12,8 @@ app首页包含一个按钮，点击登陆，跳转到登录页面。登录页�
 ![Image](/images/33.png)
 
 
+[安卓包](https://github.com/rae8422222/androidIDaas.github.io/blob/master/images/app-release.apk)
+[苹果包](https://github.com/rae8422222/androidIDaas.github.io/blob/master/images/sdk%20demo.zip)
 
 
 
