@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+## 安卓IDaaS竹云app
 
-You can use the [editor on GitHub](https://github.com/rae8422222/androidIDaas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+IDaaS竹云是一款利用社交登录和常用登录app,用户可以用自己的第三方社交登录来加载竹云的用户中心数据
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 打开app首页
+
+app首页包含一个按钮，点击登陆，跳转到登录页面。登录页面可以用用户名密码登录，也可以用手机短信验证码登录，也可以用第三方社交登录
+
+
+
+
 
 ```markdown
 Syntax highlighted code block
